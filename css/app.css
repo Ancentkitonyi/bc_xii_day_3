@@ -61,5 +61,7 @@
 }
 
 .arrow_d_animate {
+	height: 5em;
 	margin-top: -2em;
+	margin-bottom: -3em;
 }
